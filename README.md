@@ -1,10 +1,11 @@
 # Pytentiostat 
-This code is a Fork for my own use, thanks to original authors  Austin Plymill and Simon Billinge from JUAMI http://www.juami.org/
+This code is a Fork for my own use, i did a few changes in order to inprove some routines and find more tham one arduino when connected.  
+Thanks to original authors  Austin Plymill and Simon Billinge from JUAMI http://www.juami.org/
+
+For more questions about this fork: Danilo Amorim: amorimdanilom@gmail.com
 
 
-
-
-# Original readme before fork
+Original readme from autors
 # pytentiostat
 python code for the JUAMI potentiostat
 
